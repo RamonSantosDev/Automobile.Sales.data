@@ -21,3 +21,35 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
 </p>
 
 ### [Confira aqui o dashboard do projeto.](URL_DO_DASHBOARD_AQUI)
+
+## Métricas e Análises
+
+#### 1. Tendência de faturamento 2022:
+Análise da tendência de faturamento ao longo do ano de 2022.
+
+#### 2. Faturamento:
+Total de faturamento gerado pela empresa em diferentes períodos.
+
+#### 3. Envios totais:
+Número total de envios realizados pela empresa.
+
+#### 4. Remessas entregues:
+Quantidade de remessas que foram entregues com sucesso.
+
+#### 5. Vendas por categoria:
+Distribuição das vendas por diferentes categorias de produtos.
+
+#### 6. Vendas por país:
+Análise das vendas distribuídas por diferentes países.
+
+#### 7. Faturamento por país:
+Gráfico de barras mostrando o faturamento por país.
+
+## Insights
+
+Aqui você pode descrever alguns insights principais que você descobriu durante a análise, por exemplo:
+- Qual país tem o maior faturamento?
+- Qual categoria de produto é a mais vendida?
+- Qual a tendência de crescimento de vendas ao longo do ano?
+
+
