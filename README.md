@@ -20,7 +20,7 @@ No dashboard encontram-se as principais métricas e indicadores que permitem uma
   <img src="https://github.com/user-attachments/assets/57a20e8a-d447-409d-9f75-5c00caf15fd5" alt="Dashboard">
 </p>
 
-### [Confira aqui o dashboard do projeto.](URL_DO_DASHBOARD_AQUI)
+### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/groups/me/reports/8c6b1159-e895-4c03-bdaf-d88fd2ab8114?ctid=5f4331da-1330-4fac-b284-6ef4d3654adf&pbi_source=linkShare)
 
 ## Métricas e Análises
 
